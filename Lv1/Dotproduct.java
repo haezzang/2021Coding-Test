@@ -1,3 +1,4 @@
+//내적
 class Solution {
     public int solution(int[] a, int[] b) {
         int sum=0;
