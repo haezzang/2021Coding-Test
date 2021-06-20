@@ -1,3 +1,4 @@
+//약수의 합
 class Solution {
     public int solution(int n) {
         int sum = 0;
