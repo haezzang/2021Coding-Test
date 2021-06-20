@@ -1,3 +1,4 @@
+//자연수 뒤집어 배열로 만들기
 function solution(n) {
     var answer = [];
     var arr=n.toString().split("");
