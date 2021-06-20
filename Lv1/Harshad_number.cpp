@@ -1,3 +1,4 @@
+//하샤드 수
 #include <string>
 #include <vector>
 
