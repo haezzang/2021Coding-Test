@@ -1,9 +1,10 @@
+//ë¬¸ìì—´ ë‹¤ë£¨ê¸° ê¸°ë³¸
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
 #include<string.h>
 
-// ÆÄ¶ó¹ÌÅÍ·Î ÁÖ¾îÁö´Â ¹®ÀÚ¿­Àº const·Î ÁÖ¾îÁı´Ï´Ù. º¯°æÇÏ·Á¸é ¹®ÀÚ¿­À» º¹»çÇØ¼­ »ç¿ëÇÏ¼¼¿ä.
+// íŒŒë¼ë¯¸í„°ë¡œ ì£¼ì–´ì§€ëŠ” ë¬¸ìì—´ì€ constë¡œ ì£¼ì–´ì§‘ë‹ˆë‹¤. ë³€ê²½í•˜ë ¤ë©´ ë¬¸ìì—´ì„ ë³µì‚¬í•´ì„œ ì‚¬ìš©í•˜ì„¸ìš”.
 bool solution(const char* s) {
 
     if(strlen(s)!=4 && strlen(s)!= 6) return false;
