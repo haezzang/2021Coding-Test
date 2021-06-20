@@ -1,3 +1,4 @@
+//문자열내 p와 y의 갯수
 class Solution {
     boolean solution(String s) {
         boolean answer = true;
