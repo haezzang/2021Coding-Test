@@ -1,4 +1,4 @@
-//나누어 떨어지는 
+//나누어떨어지는숫자배열
 #include <string>
 #include <vector>
 #include <algorithm>
