@@ -1,3 +1,4 @@
+//은 숫자는 싫어
 function solution(arr)
 {
     var answer = [];
