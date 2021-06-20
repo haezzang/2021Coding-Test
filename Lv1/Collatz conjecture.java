@@ -1,3 +1,4 @@
+//콜라츠추측
 class Solution {
     public long solution(long num) {
         int answer = 0;
