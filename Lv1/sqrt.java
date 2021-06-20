@@ -1,6 +1,7 @@
+//정수 제곱근 판별
 class Solution {
     public double solution(double n) {
-        n=Math.sqrt(n); //������
+        n=Math.sqrt(n); //Á¦°ö±Ù
         if(n%1>0)
             return -1;
         else
