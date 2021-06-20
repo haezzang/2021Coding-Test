@@ -1,3 +1,4 @@
+//나누어 떨어지는 
 #include <string>
 #include <vector>
 #include <algorithm>
