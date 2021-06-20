@@ -1,9 +1,10 @@
+//ìŒì–‘ ë”í•˜ê¸°
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
 
-// absolutes_lenÀº ¹è¿­ absolutesÀÇ ±æÀÌÀÔ´Ï´Ù.
-// signs_lenÀº ¹è¿­ signsÀÇ ±æÀÌÀÔ´Ï´Ù.
+// absolutes_lenì€ ë°°ì—´ absolutesì˜ ê¸¸ì´ì…ë‹ˆë‹¤.
+// signs_lenì€ ë°°ì—´ signsì˜ ê¸¸ì´ì…ë‹ˆë‹¤.
 int solution(int absolutes[], size_t absolutes_len, bool signs[], size_t signs_len) {
     int answer=0;
     for(int i=0; i<signs_len; i++){
